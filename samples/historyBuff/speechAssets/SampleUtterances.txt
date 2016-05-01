@@ -1,4 +1,4 @@
-GetFirstEventIntent get events for {day}
+GetFirstEventIntent get U S {TOPLIST}
 GetFirstEventIntent give me events for {day}
 GetFirstEventIntent what happened on {day}
 GetFirstEventIntent what happened
