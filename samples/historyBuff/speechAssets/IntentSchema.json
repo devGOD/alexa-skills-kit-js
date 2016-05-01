@@ -4,8 +4,8 @@
       "intent": "GetFirstEventIntent",
       "slots": [
         {
-          "name": "TypeList",
-          "type": "AMAZON.TYPELIST"
+          "name": "toplist",
+          "type": "LIST_TYPE"
         }
       ]
     },
