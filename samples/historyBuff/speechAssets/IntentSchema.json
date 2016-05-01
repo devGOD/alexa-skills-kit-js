@@ -4,7 +4,7 @@
       "intent": "GetFirstEventIntent",
       "slots": [
         {
-          "name": "toplist",   /* list selection */
+          "name": "toplist",
           "type": "AMAZON.TOPLIST"
         }
       ]
