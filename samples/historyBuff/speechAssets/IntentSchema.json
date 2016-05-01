@@ -4,8 +4,8 @@
       "intent": "GetFirstEventIntent",
       "slots": [
         {
-          "name": "day",
-          "type": "AMAZON.DATE"
+          "name": "toplist",//top list selection
+          "type": "AMAZON.TOPLIST"
         }
       ]
     },
